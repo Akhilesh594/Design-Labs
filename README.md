@@ -1,6 +1,6 @@
 # DesignLab
 
-A focused LLD practice prototype for the CipherSchools two-day assignment.
+A focused LLD practice prototype.
 
 ## Run
 
